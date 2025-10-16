@@ -1,8 +1,8 @@
 # mandelbrot
 Just fooling around with NumPy and Seaborn in Jupyter Notebooks.
-However, I *did* implement the Mandelbrot set recursive equation in NumPy.
+However, while I was mostly having fun I *did* implement the Mandelbrot set recursive equation in NumPy.
 I *did* introduce successive zooming ("zoom levels") into chosen domain area and I *did* address some problems with "relics" that apperaed on images (details to follow).
-All in all, it was valuable experience. The notebooks need cleaning, but I'm too busy watching fractals.
+All in all, it was valuable experience. The notebooks are messy and have some comments in Polish, but I'm too busy watching fractals to clean them right now.
 
 <img src="docs/mandelbrot.png" alt="mandelbrot plot1" width="600"/>
 
